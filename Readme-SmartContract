@@ -1,0 +1,6 @@
+In this particular Smart contract home work i have deployed one using truffle IDE in testnet as well as in the network. I have set up the truffle first and then deployed a Dapp which auto executes events and actions.
+Using goerli, I whave topped up with 0.1Ether and used it in deploying the code in testnet. Previously they used ropsten endpoints which they stopped the faucet and service in Q4.
+So i decided on using the Goerli, used it as an endpoint for the testnet and a faucet to top the local address. As well as interacted with the local blockchain.
+I did use truffle IDE in develop, migrate, console, test. For using the testnet generated a secret key using the node and used it as the menomic.
+Followed the steps mentioned in creating a smart contract, from the basic initialization of the folders with the pre-loaded files to deploying and migrating test code to the testnet.
+
